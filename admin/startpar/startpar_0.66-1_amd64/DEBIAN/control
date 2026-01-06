@@ -1,8 +1,0 @@
-Package: startpar
-Version: 0.66-1
-Section: admin
-Priority: important
-Architecture: amd64
-Maintainer: <383@proton.me>
-Depends: glibc
-Description: A program to run jobs in parallel.
