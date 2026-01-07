@@ -1,8 +1,0 @@
-Package: which
-Version: 2.23-1
-Section: utils
-Priority: optional
-Architecture: amd64
-Maintainer: Miranda <miranda383@proton.me>
-Depends: glibc
-Description: GNU Which.
