@@ -1,0 +1,8 @@
+Package: dhcp
+Version: 4.4.3-2
+Section: admin
+Priority: important
+Architecture: amd64
+Maintainer: Miranda <miranda338@proton.me>
+Depends: glibc
+Description: DHCP Server.
